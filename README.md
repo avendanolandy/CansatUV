@@ -7,3 +7,4 @@ Raspberry: https://www.flux.ai/avendanolandy/cansat2?editor=schematic
 
 Esp32: https://www.flux.ai/avendanolandy/estaciont?editor=schematic 
 
+La esp32 es la estacion terrena y la raspberry pi pico w es la que iria dentro del cansat.
